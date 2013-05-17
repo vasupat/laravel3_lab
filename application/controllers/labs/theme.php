@@ -4,6 +4,7 @@ class Labs_Theme_Controller extends Base_Controller {
 
 	public function action_index()
 	{
+		// test git
 		return "Index";
 	}
 
