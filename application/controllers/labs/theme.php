@@ -10,6 +10,7 @@ class Labs_Theme_Controller extends Base_Controller {
 
 	public function get_view()
 	{
+		// bbank edit
 		return "get view";
 	}
 
